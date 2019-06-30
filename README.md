@@ -1,2 +1,2 @@
 # WebDesign
-A practice for HTML5 and CSS3 Web Design.
+A dummy website of a web design company with responsive layout and 3 pages.
